@@ -34,7 +34,7 @@ const outputFormat: OutputFormat = {
   "Social history": "",
   Summary: "",
   "differential diagnosis": "",
-  "Doctors to see": "",
+  Doctors: "",
 };
 
 const numRetries = 5; // Limit the number of retries for generating valid JSON
